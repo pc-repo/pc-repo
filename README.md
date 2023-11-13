@@ -1,6 +1,6 @@
 ### Witam :) 👋
 ### Wracam do programowania. Wkrótce pojawią się nowe treści..
-### Póki co zapraszam na swoją stronę.
+### Póki co zapraszam na swoją stronę www.pawelcabaj.pl
 <!--
 **pc-repo/pc-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
