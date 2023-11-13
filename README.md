@@ -1,5 +1,5 @@
 ### Witam :) 👋
-Wracam do programowania. Już wkrótce zaczną pojawiać się nowe treści.
+Wracam do programowania. Wkrótce pojawią się nowe treści..
 <!--
 **pc-repo/pc-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
